@@ -1,0 +1,14 @@
+D:\Repositories\Text_Adventure2.0\Text_adventure2.0\bin\Debug\Text_adventure2.0.exe.config
+D:\Repositories\Text_Adventure2.0\Text_adventure2.0\bin\Debug\Text_adventure2.0.exe
+D:\Repositories\Text_Adventure2.0\Text_adventure2.0\bin\Debug\Text_adventure2.0.pdb
+D:\Repositories\Text_Adventure2.0\Text_adventure2.0\obj\Debug\Text_adventure2.0.csprojAssemblyReference.cache
+D:\Repositories\Text_Adventure2.0\Text_adventure2.0\obj\Debug\Text_adventure2.0.csproj.CoreCompileInputs.cache
+D:\Repositories\Text_Adventure2.0\Text_adventure2.0\obj\Debug\Text_adventure2.0.exe
+D:\Repositories\Text_Adventure2.0\Text_adventure2.0\obj\Debug\Text_adventure2.0.pdb
+G:\Repositories\Text_adventure2.0\obj\Debug\Text_adventure2.0.csprojAssemblyReference.cache
+G:\Repositories\Text_adventure2.0\obj\Debug\Text_adventure2.0.csproj.CoreCompileInputs.cache
+G:\Repositories\Text_adventure2.0\obj\Debug\Text_adventure2.0.exe
+G:\Repositories\Text_adventure2.0\obj\Debug\Text_adventure2.0.pdb
+G:\Repositories\Text_adventure2.0\bin\Debug\Text_adventure2.0.exe.config
+G:\Repositories\Text_adventure2.0\bin\Debug\Text_adventure2.0.exe
+G:\Repositories\Text_adventure2.0\bin\Debug\Text_adventure2.0.pdb
