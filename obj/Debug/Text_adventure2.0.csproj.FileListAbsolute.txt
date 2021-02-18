@@ -12,3 +12,10 @@ G:\Repositories\Text_adventure2.0\obj\Debug\Text_adventure2.0.pdb
 G:\Repositories\Text_adventure2.0\bin\Debug\Text_adventure2.0.exe.config
 G:\Repositories\Text_adventure2.0\bin\Debug\Text_adventure2.0.exe
 G:\Repositories\Text_adventure2.0\bin\Debug\Text_adventure2.0.pdb
+C:\Users\Jestercard Laptop\Documents\GitHub\Text_Adventure2.0\obj\Debug\Text_adventure2.0.csprojAssemblyReference.cache
+C:\Users\Jestercard Laptop\Documents\GitHub\Text_Adventure2.0\obj\Debug\Text_adventure2.0.csproj.CoreCompileInputs.cache
+C:\Users\Jestercard Laptop\Documents\GitHub\Text_Adventure2.0\obj\Debug\Text_adventure2.0.exe
+C:\Users\Jestercard Laptop\Documents\GitHub\Text_Adventure2.0\obj\Debug\Text_adventure2.0.pdb
+C:\Users\Jestercard Laptop\Documents\GitHub\Text_Adventure2.0\bin\Debug\Text_adventure2.0.exe.config
+C:\Users\Jestercard Laptop\Documents\GitHub\Text_Adventure2.0\bin\Debug\Text_adventure2.0.exe
+C:\Users\Jestercard Laptop\Documents\GitHub\Text_Adventure2.0\bin\Debug\Text_adventure2.0.pdb

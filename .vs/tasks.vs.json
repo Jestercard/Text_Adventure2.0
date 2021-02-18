@@ -1,0 +1,15 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-Quest",
+      "appliesTo": "Quest.cs",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "task-Text_adventure2.0",
+      "appliesTo": "Text_adventure2.0.sln",
+      "type": "launch"
+    }
+  ]
+}
